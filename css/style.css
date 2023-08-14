@@ -1,0 +1,150 @@
+/* a{
+    color: #2196F3;
+    text-decoration: aliceblue;
+    }
+button{
+     color: #2196F3;
+     text-decoration: aliceblue;
+    }
+     */
+
+
+
+     
+      /* .logo {
+        color: #2196f3;
+        font-family: "Raleway";
+        font-size: 26px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        letter-spacing: 0.78px;
+      } */
+
+
+      /* футер */
+      .footer-logo-style {
+        color: #fff;
+      
+      }
+
+      /* .header-logo-style {
+        color: #000;
+      }  */
+
+
+/* лого */
+      .logo {
+        color: #2196f3;
+        font-family: "Raleway";
+        font-size: 26px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        letter-spacing: 0.78px;
+        text-decoration: aliceblue;
+      }
+
+      /* хедер */
+      .header-logo-style {
+        color: #000;
+        text-decoration: aliceblue;
+      } 
+
+
+/* посилання */
+    a {
+        color: #212121;
+        text-decoration: aliceblue;
+    }
+
+    /* секція для героя */
+    .section {
+        background-color: #2F303A;
+        width: 1000px;
+        height: 400px;
+        flex-shrink: 0;
+ }
+
+/* секція 1 */
+ .section-h1 {
+    color: #FFF;
+    font-size: 80px;
+ }
+
+
+
+
+ /* {
+} */
+
+
+
+/* .section-button {
+
+}  */
+
+/* секція кнопка */
+ .section-button-1 {
+    font-size: 20px;
+    color: white;
+    background-color:  #2196F3;
+    text-decoration: #2196F3;
+    border: none;
+    border-radius: 4px;
+    width: 200px;
+    height: 50px;
+  }
+
+
+/* секція */
+  .section-2 {
+    background-color: #F5F4FA;
+    width: 1300px;
+    height: 1500px;
+    flex-shrink: 0;
+}
+
+/* Футер */
+.footer {
+    background-color: #2F303A;
+    width: 1600px;
+    height: 252px;
+    flex-shrink: 0;
+} 
+
+
+/* адресса */
+.address {
+    font-size: 20px;
+    color: white;
+} 
+
+.address-2 {
+    color: rgba(255, 255, 255, 0.60);
+}
+
+
+.address-12 {
+color: #757575;
+}
+
+.button-2 {
+    border-radius: 4px;
+    background: #F5F4FA;
+    font-size: 20px;
+    width: 120px;
+    height: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
