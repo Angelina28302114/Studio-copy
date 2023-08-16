@@ -146,5 +146,7 @@ color: #757575;
 
 
 
-
+:root{
+  --accent-color:color: #757575;
+}
 
