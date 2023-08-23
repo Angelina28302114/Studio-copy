@@ -203,8 +203,8 @@ color: #757575;
   cursor: var(--cursor);
 }
 
-.address:hover
-.address:focus{}
+/* .address:hover
+.address:focus{} */
 
 .menu:hover,
 .menu:focus {
